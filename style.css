@@ -124,7 +124,7 @@ button {
 	padding:20px 0px;
 }
 .w3layouts-banner {
-	background:url(http://janfer.com/2173-large_default/senal-flecha-hacia-arriba.jpg) 0px 0px  no-repeat;
+	background:url("http://janfer.com/2173-large_default/senal-flecha-hacia-arriba.jpg") 0px 0px  no-repeat;
 	background-size:cover;
 	min-height:780px;
 }
